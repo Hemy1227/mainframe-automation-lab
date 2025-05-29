@@ -1,10 +1,15 @@
-# Mainframe Automation Lab
+# Ansible for z/OS
 
-Welcome to the **main** branch — where dreams are planned, features are forgotten, and merges go to die.
+Here lies , a tribute to idempotence and indignation.
 
-This branch exists purely so GitHub doesn’t complain.
+I’m using Ansible to automate z/OS tasks — because typing the same command 40 times manually was getting boring.
 
-> Pro tip: All the work happens in other branches because the main branch is too important for actual work.
+This branch features:
+- Playbooks that ping and pretend that’s a success
+- Inventory files that change more than my mood
+- Syntax errors caused by invisible spaces
 
-Enjoy the emptiness.
+YAML is white-space sensitive, and so am I at this point.
+
+> May the handlers be ever in your favor.
 
