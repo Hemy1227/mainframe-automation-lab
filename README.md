@@ -1,10 +1,15 @@
-# Mainframe Automation Lab
+# Python Core
 
-Welcome to the **main** branch — where dreams are planned, features are forgotten, and merges go to die.
+Welcome to the  branch — where I attempt to master Python by Googling every error message I get.
 
-This branch exists purely so GitHub doesn’t complain.
+If you're looking for elegant code, you're definitely in the wrong place.  
+This branch is mostly:
+- Copy ➡️ Paste ➡️ Panic ➡️ Stack Overflow ➡️ Repeat.
 
-> Pro tip: All the work happens in other branches because the main branch is too important for actual work.
+Things I’ll *eventually* cover:
+- Loops that loop endlessly
+- Functions that don’t function
+- And variables that change themselves (or so it seems)
 
-Enjoy the emptiness.
+Feel free to judge.
 
