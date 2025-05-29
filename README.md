@@ -1,10 +1,15 @@
-# Mainframe Automation Lab
+# Python for z/OS
 
-Welcome to the **main** branch — where dreams are planned, features are forgotten, and merges go to die.
+This branch is all about writing Python for z/OS. Yes — **Python**. On a system built to run COBOL in the ‘60s.
 
-This branch exists purely so GitHub doesn’t complain.
+I’m juggling USS, ZOAU, and mystical JCL wrappers while trying not to anger the sysplex gods.
 
-> Pro tip: All the work happens in other branches because the main branch is too important for actual work.
+Expect:
+- Bash-turned-Python scripts that only run on the third try
+- ZOAU commands that work *except when they don’t*
+- And logs. So many logs. Logs everywhere.
 
-Enjoy the emptiness.
+> If you hear weeping, it's just me debugging  wrappers.
+
+Good luck.
 
